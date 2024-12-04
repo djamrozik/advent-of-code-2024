@@ -6,7 +6,8 @@
   "scripts": {
     "day1": "ts-node src/day1/index.ts",
     "day2": "ts-node src/day2/index.ts",
-    "day3": "ts-node src/day3/index.ts"
+    "day3": "ts-node src/day3/index.ts",
+    "day4": "ts-node src/day4/index.ts"
   },
   "author": "",
   "license": "ISC",
