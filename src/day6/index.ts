@@ -1,8 +1,6 @@
 import * as fs from "fs";
 import path from "path";
 
-
-
 type GridPos = {
     row: number
     col: number
